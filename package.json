@@ -1,5 +1,5 @@
 {
-  "name": "defillama-apy-server",
+  "name": "defillama-apy-server",  // publish this package on NPM 
   "version": "1.0.0",
   "scripts": {
     "deploy:env": "sls deploy --stage $NODE_ENV",
